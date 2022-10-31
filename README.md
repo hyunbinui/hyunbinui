@@ -1,5 +1,5 @@
 <p align = 'center'>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyunbin%20Jin&fontSize=90"/></p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=300&section=header&text=Hyunbin%20Jin&fontSize=90"/></p>
 <h1 align = 'center'> Hyunbin Jin <h1>
 <h2 align = 'center'> 🎓Education🎓 </h2>
 <h3 align = 'center'> Yonsei University, Political Science and International Studies, 2018.03 ~ </h3>
