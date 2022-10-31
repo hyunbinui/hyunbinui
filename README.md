@@ -1,11 +1,10 @@
-<p align = 'center'>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyunbin%20Jin&fontSize=90"/></p>
-<h1 align = 'center'> 🎓Education🎓 </h1>
+<h1 align = 'center'> <strong> HYUNBIN JIN </strong> </h1>
+<h2 align = 'center'> 🎓 Education 🎓 </h2>
 <h3 align = 'center'> Yonsei University, Political Science and International Studies, 2018.03 ~ </h3>
 <h3 align = 'center'> New York University, Computer Science (Visiting Student), 2021.09 ~ 2021.12 </h3>
 <br>
 <br>
-<h1 align = 'center'> 🛠Tech Stacks🛠 </h1>
+<h1 align = 'center'> 🛠 Tech Stacks 🛠 </h1>
 <h2 align = 'center'> programming languages </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
