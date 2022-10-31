@@ -4,6 +4,6 @@
 <h3 align = 'center'> New York University, Computer Science, 2021.09 ~ 2021.12 </h3>
 <h2 align = 'center'> 🛠Tech Stacks🛠 </h2>
 <h3 align = 'center'> programming languages </h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#3776AB&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <h3 align = 'center'> framework </h3>
