@@ -1,4 +1,4 @@
-<h1 align = 'center'> <strong> Hyunbin Jin </strong></h1>
+# Hyunbin Jin 
 <h2 align = 'center'> 🎓Education🎓 </h2>
 <h3 align = 'center'> Yonsei University, Political Science and International Studies, 2018.03 ~ </h3>
 <h3 align = 'center'> New York University, Computer Science, 2021.09 ~ 2021.12 </h3>
