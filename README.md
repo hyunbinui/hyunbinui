@@ -5,6 +5,6 @@
 <h2 align = 'center'> 🛠Tech Stacks🛠 </h2>
 <h3 align = 'center'> programming languages </h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></a>
 
 <h3 align = 'center'> framework </h3>
