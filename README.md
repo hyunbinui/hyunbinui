@@ -22,5 +22,3 @@
 </p>
 
 
-### in progress!
-
