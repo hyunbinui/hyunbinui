@@ -2,7 +2,7 @@
 <h1 align = 'center'> <strong> HYUNBIN JIN </strong> </h1>
 <br>
 <h2 align = 'center'> 🎓 Education 🎓 </h2>
-<h3 align = 'center'> Yonsei University, Political Science and International Studies, 2018. 03 ~ </h3>
+<h3 align = 'center'> Yonsei University, Political Science and International Studies, 2018. 03 ~ 2023. 02 </h3>
 <h3 align = 'center'> New York University, Computer Science (Exchange Student), 2021. 09 ~ 2021. 12 </h3>
 <br>
 <br>
