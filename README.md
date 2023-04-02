@@ -1,4 +1,4 @@
-<h2>HYUNBIN JIN</h2>
+<h1>HYUNBIN JIN</h1>
 
 [[cv]](https://drive.google.com/file/d/1IEgshWYNN5S8x_D_eSubon32XDnePXDI/view?usp=sharing) 
 [[email]](mailto:rihein@yonsei.ac.kr)
