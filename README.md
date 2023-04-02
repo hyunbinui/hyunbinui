@@ -1,6 +1,6 @@
 <h2>HYUNBIN JIN</h2>
 
-[[cv]](https://drive.google.com/file/d/1JzhmGWlRyOtJHgTLDfYcS0it6zWDZb91/view?usp=sharing) 
+[[cv]]() 
 [[email]](mailto:rihein@yonsei.ac.kr)
 
 <h3>education</h3>
