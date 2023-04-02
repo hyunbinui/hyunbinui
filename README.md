@@ -1,5 +1,5 @@
 <h2>HYUNBIN JIN</h2>
-[! cv](https://github.com/hyunbinui/hyunbinui/files/11131079/cv.1.pdf) / [! email](mailto:rihein@yonsei.ac.kr)
+[! [cv]](https://github.com/hyunbinui/hyunbinui/files/11131079/cv.1.pdf) / [! [email]](mailto:rihein@yonsei.ac.kr)
 
 
 <h3>education</h3>
