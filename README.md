@@ -1,4 +1,3 @@
-<br>
 <h2>HYUNBIN JIN</h2>
 
 <h3>education</h3>
