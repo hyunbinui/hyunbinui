@@ -8,7 +8,7 @@
 - Bachelor of Political Science and International Studies, Yonsei University  |  Mar. 2018 ~ Feb. 2023
 - Exchange Student at New York University (CS Major)  |  Sep. 2021 ~ Dec. 2021
  
-<h3>work experience</h3>
+<h3>work experiences</h3>
 
 - Intern at Data Analysis Team, UpennSolution, Korea  |  Feb. 2021 ~ Jul. 2021
 - NLP Engineer at LETR, Twigfarm, Korea  |  Oct. 2022 ~ Feb. 2023
