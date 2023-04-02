@@ -7,7 +7,9 @@
  
  
 <h3>tech stacks</h3>
-<h4> programming languages </h4>
+
+- programming languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
@@ -16,7 +18,8 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
 
-<h4> framework </h4>
+- framework
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
 </p>
