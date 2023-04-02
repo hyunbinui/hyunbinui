@@ -1,11 +1,14 @@
 <br>
-<h1>HYUNBIN JIN </h1>
-<h2> education </h2>
+<h1>HYUNBIN JIN</h1>
+
+###education 
+
 - Bachelor of Political Science and International Studies, Yonsei University | 2018. 03 ~ 2023. 02
 - Exchange Student at New York University (Computer Science Major) | 2021. 09 ~ 2021. 12 
+ 
 <br>
-<h2> tech stacks </h2>
-<h3 align> programming languages </h3>
+### tech stacks
+<h3> programming languages </h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
