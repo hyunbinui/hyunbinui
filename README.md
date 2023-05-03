@@ -11,7 +11,7 @@
 <h3>work experiences</h3>
 
 - Intern at Data Analysis Team, UpennSolution, Korea  |  Feb. 2021 ~ Jul. 2021
-- NLP Engineer at LETR, Twigfarm, Korea  |  Oct. 2022 ~ Feb. 2023
+- NLP Research Engineer at LETR, Twigfarm, Korea  |  Oct. 2022 ~ Feb. 2023
 
 <h3>tech stacks</h3>
 
