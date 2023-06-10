@@ -1,12 +1,13 @@
 <h1>HYUNBIN JIN</h1>
 
-[[cv]](https://drive.google.com/file/d/1IEgshWYNN5S8x_D_eSubon32XDnePXDI/view?usp=sharing) 
-[[email]](mailto:rihein@yonsei.ac.kr)
+[[portfolio]](https://www.notion.so/rhye/Portfolio-f1c2cc9d36ce47ae83dd8dae6fa8c0db?pvs=4) 
+[[email]](mailto:rihein@naver.com)
 
 <h3>education</h3>
  
 - Bachelor of Political Science and International Studies, Yonsei University  |  Mar. 2018 ~ Feb. 2023
-- Exchange Student at New York University (CS Major)  |  Sep. 2021 ~ Dec. 2021
+- Exchange Student at New York University  |  Sep. 2021 ~ Dec. 2021
+- Master of Data Science, Seoul National University  |  Sep. 2023 ~ Aug. 2025 (expected)
  
 <h3>work experiences</h3>
 
