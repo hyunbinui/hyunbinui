@@ -1,6 +1,6 @@
 <h1>HYUNBIN JIN</h1>
 
-[[portfolio]](https://www.notion.so/rhye/Portfolio-f1c2cc9d36ce47ae83dd8dae6fa8c0db?pvs=4) 
+[[portfolio]](https://rhye.notion.site/Portfolio-f1c2cc9d36ce47ae83dd8dae6fa8c0db?pvs=4) 
 [[email]](mailto:rihein@naver.com)
 
 <h3>education</h3>
